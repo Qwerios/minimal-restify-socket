@@ -1,0 +1,32 @@
+{
+    "author": {
+        "email": "mark@springtree.nl",
+        "name": "Mark Doeswijk",
+        "url": "https://github.com/Qwerios"
+    },
+    "contributors": [],
+    "dependencies": {
+        "bunyan": "^1.0.0",
+        "coffee-script": "^1.7.1",
+        "jsonfile": "^2.0.0",
+        "lodash": "^2.4.1",
+        "madlib-object-utils": "^0.1.6",
+        "madlib-xdm-provider": "^0.1.2",
+        "madlib-settings": "^0.1.7",
+        "moment": "^2.8.1",
+        "node-restify-swagger": "^0.1.6",
+        "node-restify-validation": "^0.1.0",
+        "q": "^1.0.1",
+        "restify": "2.8.2",
+        "socket.io": "~1.0.6"
+    },
+    "description": "Example project for issue reproduction",
+    "licenses": [
+        {
+            "type": "BSD"
+        }
+    ],
+    "main": "index.js",
+    "name": "minimal-restify-socket",
+    "version": "0.1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "api-port": 9999,
+  "api-host": "localhost",
+  "api-protocol": "http",
+  "database-port": 5984,
+  "database-host": "localhost",
+  "database-username": "admin",
+  "database-password": "secret"
+}
