@@ -25,7 +25,9 @@ module.exports = class API
 
         # Create our restify server and configure the middle-ware
         #
-        server = restify.createServer()
+        server = restify.createServer(
+            socketio: true
+        )
 
         # Setup swagger to expose our API documentation
         #

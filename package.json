@@ -17,7 +17,7 @@
         "node-restify-swagger": "^0.1.6",
         "node-restify-validation": "^0.1.0",
         "q": "^1.0.1",
-        "restify": "2.8.2",
+        "restify": "Qwerios/node-restify",
         "socket.io": "~1.0.6"
     },
     "description": "Example project for issue reproduction",
